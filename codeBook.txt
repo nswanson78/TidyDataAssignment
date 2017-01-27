@@ -1,0 +1,6 @@
+#Code Book
+The first output of the scripts in a text file called tidyData.txt, which is a data set that includes all instances of data from the training and test data sets.
+These instances have their subject and activity number identifier added onto each instance (row) to allow for ease of use for working with. 
+The other columns are the three dimension x,y,z axis momentum acceleration mean and standard deviation of the 6 specified activities. 
+I chose not to add the actual word for each activity because it is redundant when the numbers associated with them are already present.
+This is also because it helps keep the data set clear of extraneous information
